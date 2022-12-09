@@ -734,3 +734,15 @@ p {
   }
 }
 /* End  Media Query For Desktop */
+
+.icon .gits {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.git_img {
+  border-radius: 100%;
+  width: 70px;
+  height: 70px;
+}
